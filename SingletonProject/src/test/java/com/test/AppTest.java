@@ -38,6 +38,6 @@ public class AppTest
     
     public void testFactorialApp(){
     	FactorialApp factoApp = new FactorialApp();
-    	assertEquals(factoApp.getFactorial(5),120);
+    	assertEquals(factoApp.getFactorial(5),121);
     }
 }
