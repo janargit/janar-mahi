@@ -13,7 +13,7 @@ public class FactorialApp
 	   for(int i=1;i<=value;i++){
 		   factorial = factorial * i;
 	   }
-	   //System.out.println("factorial of "+value+" is::"+factorial);
+	   System.out.println("factorial of "+value+" is::"+factorial);
 	   return factorial;
    }
 }
